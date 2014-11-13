@@ -17,3 +17,7 @@ Boxbilling PuPHPet is a Boxbilling development environment utilize Vagrant confi
 * PHP 5.4
 * xdebug enabled (xdebug.idekey - PHPSTORM)
 * Ubuntu 12.04-x64
+
+## Issues
+
+[Do not install PHP 5.5 and Ubuntu 12.04](http://unix.stackexchange.com/questions/96942/apache-not-starting-in-vagrant-vm)
